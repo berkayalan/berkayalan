@@ -3,7 +3,7 @@
 ## I am a Data Science Researcher, spesifically working on Computer Vision.
 
 - currently working at Unilever as a Project Analyst.
-- currently Teaching Assitant in Data Science for the Public Good bootcamp by Kodluyoruz.
+- currently Teaching Assistant in Data Science for the Public Good bootcamp by Kodluyoruz.
 - graduated from Management Information Systems.
 - trying to develop myself in object detection and image processing.
 
