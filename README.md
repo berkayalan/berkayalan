@@ -3,7 +3,6 @@
 ## I am a Data Analyst, I am also spesifically working on Computer Vision.
 
 - currently working at Getir as a Data Analyst.
-- currently Teaching Assistant in Data Science for the Public Good bootcamp by Kodluyoruz.
 - graduated from Management Information Systems.
 - trying to develop myself in object detection and image processing.
 
