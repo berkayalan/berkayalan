@@ -1,8 +1,8 @@
 **Hi, I am Berkay!**
 
-## I am a Data Analyst, I am also spesifically working on Computer Vision.
+## I am a Data Scientist, I am also spesifically working on Computer Vision.
 
-- currently working at Getir as a Data Analyst.
+- currently working at Getir as a Data Scientist.
 - graduated from Management Information Systems.
 - trying to develop myself in object detection and image processing.
 
