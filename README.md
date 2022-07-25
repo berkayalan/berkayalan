@@ -2,7 +2,7 @@
 
 ## I am a Data Scientist, I am also specifically working on Computer Vision.
 
-- currently working at Getir as a Data Scientist.
+- currently working as a Data Scientist.
 - graduated from Management Information Systems.
 - trying to develop myself in object detection and image processing.
 
