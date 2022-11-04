@@ -1,10 +1,10 @@
 **Hi, I am Berkay!**
 
-## I am a Data Scientist, I am also specifically working on Computer Vision.
+## I am a Machine Learning Engineer.
 
-- currently working as a Data Scientist.
+- currently working as a Machine Learning Engineer.
 - graduated from Management Information Systems.
-- trying to develop myself in object detection and image processing.
+- trying to develop myself in mlops and cloud era.
 
 My mail adress: berkayalan.mail@gmail.com :mailbox_with_no_mail:
 
