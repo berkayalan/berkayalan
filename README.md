@@ -4,7 +4,7 @@
 
 * 💻 currently working as a Machine Learning Engineer.
 * 🎓 graduated from Management Information Systems.
-* 💻 trying to develop myself in mlops and cloud era.
+* ☁️ trying to develop myself in mlops and cloud era.
 
 
 <a href="https://github.com/berkayalan">
