@@ -6,15 +6,15 @@
 * 🎓 graduated from Management Information Systems.
 * 💻 trying to develop myself in mlops and cloud era.
 
-<p align="center">
+
 <a href="https://github.com/berkayalan">
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/berkayalan/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <a href="mailto:berkayalan.mail@gmail.co">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Mail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
 </a>
 <a href="https://www.kaggle.com/berkayalan">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
@@ -33,8 +33,6 @@
 ![Berkay's Profile Views](https://komarev.com/ghpvc/?username=berkayalan&color=blue)
 
 <br/> 
-
-</p>
 
 <details>
 <summary>📈 Stats</summary>
