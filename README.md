@@ -3,6 +3,7 @@
 ## I am a Machine Learning Engineer.
 
 * 💻 currently working as a Machine Learning Engineer.
+* 🎓 pursuing Master degree in Software Engineering.
 * 🎓 graduated from Management Information Systems.
 * ☁️ trying to develop myself in mlops and cloud era.
 
