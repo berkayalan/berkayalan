@@ -1,6 +1,6 @@
 **Hi, I am Berkay!**
 
-## I am a Machine Learning Engineer.
+## I am AWS Certified Machine Learning Engineer.
 
 * 💻 currently working as a Machine Learning Engineer.
 * 🎓 pursuing Master degree in Software Engineering.
