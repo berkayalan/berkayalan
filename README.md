@@ -20,7 +20,7 @@
 <a href="https://www.kaggle.com/berkayalan">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
 </a>
-<a href="https://medium.com/@berkayalan14">
+<a href="https://medium.com/@berkayalann">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`" alt="Medium">
 </a>
 <a href="https://stackoverflow.com/users/13472725/berkayln">
