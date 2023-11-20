@@ -5,6 +5,7 @@
 * 💻 currently working as a Cloud & Machine Learning Engineer.
 * 🎓 graduated from Management Information Systems.
 * ☁️ trying to develop myself in mlops and cloud era.
+* AWS Solutions Architect
 
 
 <a href="https://github.com/berkayalan">
