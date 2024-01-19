@@ -4,7 +4,7 @@
 
 * 💻 currently working as a Cloud & Machine Learning Engineer.
 * 🎓 graduated from Management Information Systems.
-* ☁️ trying to develop myself in mlops and cloud era.
+* ☁️ trying to develop myself in devops, mlops and cloud era.
 * AWS Solutions Architect
 
 
