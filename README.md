@@ -1,6 +1,6 @@
 **Hi, I am Berkay!**
 
-## I am AWS Certified Cloud & Machine Learning Engineer.
+## I am AWS Certified Cloud & Devops Engineer.
 
 * 💻 currently working as a Cloud & Machine Learning Engineer.
 * 🎓 graduated from Management Information Systems.
