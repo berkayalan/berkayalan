@@ -2,7 +2,7 @@
 
 ## I am AWS Certified Cloud & Devops Engineer.
 
-* 💻 currently working as a Cloud & Machine Learning Engineer.
+* 💻 currently working as a Cloud & Devops Engineer.
 * 🎓 graduated from Management Information Systems.
 * ☁️ trying to develop myself in devops, mlops and cloud era.
 * AWS Solutions Architect
